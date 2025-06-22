@@ -1,0 +1,2 @@
+bin_PROGRAMS=whatsexeced
+whatsexeced_SOURCES=whatsexeced.c
